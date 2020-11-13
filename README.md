@@ -1,0 +1,2 @@
+# test_tools_byPySide2
+使用PySide2+python编写的自动生成测试数据脚本
